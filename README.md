@@ -11,4 +11,6 @@ dapat dilihat [di sini](https://drive.google.com/drive/folders/1KRN99vy-5mSLKYYq
 
 dapat dilihat [kalkulator]([cobaFolder]).
 
+streamlit [di sini](https://ardinadnn-bikesharing.streamlit.app/)
+
 halo
