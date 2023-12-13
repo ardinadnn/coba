@@ -7,6 +7,6 @@ halo ini nyoba
   **YEY**
 
   
-dapat dilihat [di sini](external.ink?to=google.com).
+dapat dilihat [di sini](cobaFolder?to=google.com).
 
 halo
