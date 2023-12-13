@@ -1,0 +1,116 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p, div {
+  margin: 0;
+  padding: 0;
+  -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.kalkulator{
+    height: fit-content;
+    background-color: #ffffff;
+    display: block;
+    width: 332px;
+    margin: 10px auto;
+    border-width: 1px;
+    border-style:solid;
+    border-color: black;
+}
+
+.inputAngka{
+    background-color: #343232;
+    padding: 20px 20px;
+}
+
+.inputAngka p{
+    color: #E4E4E4;
+    font-size: 1.3em;
+    text-align: left;
+    width: auto;
+}
+
+.inputAngka input{
+    color: #fff;
+    font-size: 1.7em;
+    background-color: transparent;
+    border: transparent;
+    text-align: left;
+    width: auto;
+}
+
+.btn{
+    background-color: black;
+    height: 65px;
+    width:65px;
+    color: #cac4c4;
+    border-radius:30px;
+    margin: 4px 3px;
+    font-size: 1.5em;
+    box-shadow: 3px 3px 4px #7E7979;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.btn:not(.nomor){
+    border: none;
+}
+
+.buttonKalkulator{
+    display: block;
+    width: fit-content;
+    margin: 15px auto;
+}
+
+.nomor{
+    background-color: white;
+    color:black;
+    border-width: 1px;
+    border-style:solid;
+    border-color: rgb(175, 175, 175);
+}
+
+.AC{
+    opacity: 80%;
+}
+
+.C{
+    opacity: 70%;
+}
+
+.modulo, .koma{
+    opacity: 60%;
+}
+
+.bagi, .equal{
+    opacity: 50%;
+}
+
+.kali, .plus{
+    opacity: 40%;
+}
+
+.minus{
+    opacity:30%;
+}
+
+.nomor:hover{
+    transition: all 1s;
+    background-color: #e6e6e6e5;
+}
+
+.btn:active {
+    top:1px;
+    right: 1px;
+    position:relative;
+}
+
+.btn:not(.nomor):hover{
+    color: white;
+    opacity: 100%;
+    transition: all 1s;
+}
