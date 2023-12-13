@@ -7,6 +7,6 @@ halo ini nyoba
   **YEY**
 
   
-dapat dilihat [di sini]([a](https://drive.google.com/drive/folders/1KRN99vy-5mSLKYYqaezAN6iRh3qdN9Dq?usp=sharing)https://drive.google.com/drive/folders/1KRN99vy-5mSLKYYqaezAN6iRh3qdN9Dq?usp=sharing).
+dapat dilihat [di sini](https://drive.google.com/drive/folders/1KRN99vy-5mSLKYYqaezAN6iRh3qdN9Dq?usp=sharing).
 
 halo
