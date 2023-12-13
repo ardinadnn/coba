@@ -8,5 +8,7 @@ halo ini nyoba
 
   
 dapat dilihat [di sini](https://drive.google.com/drive/folders/1KRN99vy-5mSLKYYqaezAN6iRh3qdN9Dq?usp=sharing).
-dapat dilihat [kalkulator](cobaFolder).
+
+dapat dilihat [kalkulator]([cobaFolder]).
+
 halo
