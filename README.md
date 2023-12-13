@@ -7,6 +7,6 @@ halo ini nyoba
   **YEY**
 
   
-dapat dilihat [di sini]([footerGametaria]).
+dapat dilihat [di sini]([cobaFolder]).
 
 halo
