@@ -7,6 +7,6 @@ halo ini nyoba
   **YEY**
 
   
-dapat dilihat [di sini](cobaFolder?to=hai.md).
+dapat dilihat [di sini](cobaFolder?to=).
 
 halo
