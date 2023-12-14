@@ -1,7 +1,7 @@
 ![persona-persona4](https://github.com/ardinadnn/coba/assets/87525325/279e0d61-2aa1-42b2-8b91-ed24428a9a5d)
 
  <img src="https://github.com/ardinadnn/coba/assets/87525325/279e0d61-2aa1-42b2-8b91-ed24428a9a5d" alt="alt text" width="50" height="whatever">
-<img src="coba/stiker2.jpg"" alt="alt text" width="50" height="whatever">
+<img src="img/stiker2.jpg"" alt="alt text" width="50" height="whatever">
 
 # Mencoba
 halo ini nyoba
