@@ -11,6 +11,10 @@ description: > # your text below (remove <br> elements if you don't need line br
 #remote_theme: pages-themes/time-machine@v0.2.0
 #remote_theme: pages-themes/minimal@v0.2.0
 remote_theme: yaoyao-liu/minimal-light
+
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
 enable_footnote: true
@@ -23,11 +27,6 @@ auto_dark_mode: true
 # You can use this option to choose between Serif or Sans Serif fonts.
 font: "Serif" # or "Sans Serif"
 
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Halo?
 titles: Halohalo
