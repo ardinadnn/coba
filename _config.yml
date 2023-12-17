@@ -6,6 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://github.com/ardinadnn/">View My Github</a> 
 
 #theme: jekyll-theme-minimal
 #remote_theme: pages-themes/time-machine@v0.2.0
@@ -33,3 +34,6 @@ title: Halo?
 titles: Halohalo
 #show_downloads: true
 #theme: jekyll-theme-minimal
+
+github:
+  is_project_page: false
